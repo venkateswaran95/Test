@@ -1,0 +1,22 @@
+<mvc:View controllerName="UIDesignSAPUIDesign.controller.View1" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
+	displayBlock="true" xmlns="sap.m" xmlns:l="sap.ui.layout" xmlns:c="sap.ui.core">
+	<Page title="CardView">
+		<l:VerticalLayout
+			id="idVerticalLayout">
+	<!--		<c:tooltip></c:tooltip> --><!-- sap.ui.core.TooltipBase -->
+	<!--		<c:customData></c:customData> --><!-- sap.ui.core.CustomData -->
+	<!--		<layoutData></layoutData> --><!-- sap.ui.core.LayoutData -->
+	<!--		<dependents></dependents> --><!-- sap.ui.core.Element -->
+	<!--		<content></content> --><!-- sap.ui.core.Control -->
+	
+	<l:HorizontalLayout>
+		
+	</l:HorizontalLayout>
+	
+	</l:VerticalLayout>
+	
+	</Page>
+		
+
+
+</mvc:View>
