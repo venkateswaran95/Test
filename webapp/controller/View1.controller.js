@@ -6,9 +6,9 @@ sap.ui.define([
 	return Controller.extend("UIDesignSAPUIDesign.controller.View1", {
 		//test
 		//test 2
-
+		
 		init: function(){
-			
+			console.log("Test commi");	
 		}
 
 	});
